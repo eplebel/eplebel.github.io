@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://eplebel.github.io
+title: Curate Science Official Blog
+paginate: 10
